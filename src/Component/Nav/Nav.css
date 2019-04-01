@@ -1,0 +1,10 @@
+.Nav {
+  background-color: #282c34;
+  min-height: 15vh;
+  color: white;
+  display: flex;
+}
+
+.Nav-logoContainer {
+  width: 20vmin;
+}

@@ -1,0 +1,15 @@
+.NavLinks {
+  display: flex;
+}
+
+.NavLinks a {
+  text-decoration: none;
+  padding: 0px;
+}
+
+.NavLinks-link {
+  margin: 10px;
+  color: white;
+  text-decoration: none;
+  text-align: left;
+}

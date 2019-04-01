@@ -1,0 +1,27 @@
+.redBox {
+  border: 2px solid red;
+}
+
+.blueBox {
+  border: 2px solid blue;
+}
+
+.yellowBox {
+  border: 2px solid yellow;
+}
+
+.greenBox {
+  border: 2px solid green;
+}
+
+.whiteBox {
+  border: 2px solid white;
+}
+
+.orangeBox {
+  border: 2px solid orange;
+}
+
+/* Delete these when you're done building the site.
+This file is completely useless in the actual build.
+This file is used to visualize spacing between elements. */

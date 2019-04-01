@@ -1,0 +1,8 @@
+.NavTitle {
+  margin: 5vmin 0px 5px 0px;
+  display: flex;
+}
+
+.NavTitle-title {
+  margin: 0px 0px 0px 10px;
+}

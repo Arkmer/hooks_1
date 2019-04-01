@@ -1,0 +1,39 @@
+.NavLogo-react {
+  animation: NavLogo-react-spin infinite 20s linear;
+  height: 12vmin;
+  margin: 1.5vmin 0vmin 0vmin 0vmin;
+  pointer-events: none;
+}
+
+@keyframes NavLogo-react-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.NavLogo-castle {
+  height: 12vmin;
+  margin: 1.5vmin 0vmin 0vmin 0vmin;
+  pointer-events: none;
+}
+
+.NavLogo-vue {
+  height: 12vmin;
+  margin: 1.5vmin 0vmin 0vmin 0vmin;
+  pointer-events: none;
+}
+
+.NavLogo-angular {
+  height: 12vmin;
+  margin: 1.5vmin 0vmin 0vmin 0vmin;
+  pointer-events: none;
+}
+
+.NavLogo-home {
+  height: 12vmin;
+  margin: 1.5vmin 0vmin 0vmin 0vmin;
+  pointer-events: none;
+}
